@@ -1,4 +1,10 @@
 name, email, github
 Renée Hendricksen, renee@nird.us, reneedv
+<<<<<<< HEAD
 Matthew Viens, Matthew.J.Viens@gmail.com, MatthewViens
 Marco Lindsay, marco.p.lindsay@gmail.com, marco-lindsay
+=======
+Cheri Allen, cheri@nird.us, cherimarie
+Matthew Viens, Matthew.J.Viens@gmail.com, MatthewViens
+Matthew James Stephenson, Msteph@uw.edu, mjstephenson
+>>>>>>> b833447806212d5bb5853e53ba242cd7e25e5262
